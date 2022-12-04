@@ -19,7 +19,7 @@ body {
   place-items: center;
   min-height: 100vh;
   background: #08070f;
-  background: linear-gradient(to right, #1a0f2e, #2a0845); 
+  /* background: linear-gradient(to right, #1a0f2e, #2a0845);  */
 }
 .blur_bg {
   width: 18rem;
